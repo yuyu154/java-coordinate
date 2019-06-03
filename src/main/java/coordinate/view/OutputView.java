@@ -1,6 +1,6 @@
 package coordinate.view;
 
-import coordinate.Figure;
+import coordinate.domain.figure.Figure;
 import coordinate.domain.Point;
 import coordinate.domain.PointElement;
 

@@ -1,4 +1,4 @@
-package rentcar;
+package rentcar.domain;
 
 public interface Car {
 

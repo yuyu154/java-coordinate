@@ -1,6 +1,8 @@
 package coordinate;
 
 import coordinate.domain.PolygonFigureFactory;
+import coordinate.domain.figure.Figure;
+import coordinate.domain.figure.FigureFactory;
 import coordinate.view.InputView;
 import coordinate.view.OutputView;
 

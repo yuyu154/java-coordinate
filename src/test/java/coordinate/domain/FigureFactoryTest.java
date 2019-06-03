@@ -1,6 +1,6 @@
 package coordinate.domain;
 
-import coordinate.Figure;
+import coordinate.domain.figure.Figure;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

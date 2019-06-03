@@ -1,6 +1,6 @@
 package coordinate.domain;
 
-import coordinate.Figure;
+import coordinate.domain.figure.Figure;
 import coordinate.domain.figure.NotFigure;
 
 import java.util.List;

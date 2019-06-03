@@ -1,12 +1,13 @@
 package coordinate.domain;
 
-import coordinate.Figure;
+import coordinate.domain.figure.Figure;
+import coordinate.domain.figure.FigureFactory;
 
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class PolygonFigureFactory implements coordinate.FigureFactory {
+public class PolygonFigureFactory implements FigureFactory {
     private static final Map<Integer, FigureCreator> FIGURE_CREATORS;
 
     static {
